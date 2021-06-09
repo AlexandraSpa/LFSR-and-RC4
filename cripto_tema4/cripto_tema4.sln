@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cripto_tema4", "cripto_tema4.vcxproj", "{5292F5E0-F70A-4E0F-86BE-4D9B270E2804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5292F5E0-F70A-4E0F-86BE-4D9B270E2804}.Debug|x64.ActiveCfg = Debug|x64
+		{5292F5E0-F70A-4E0F-86BE-4D9B270E2804}.Debug|x64.Build.0 = Debug|x64
+		{5292F5E0-F70A-4E0F-86BE-4D9B270E2804}.Debug|x86.ActiveCfg = Debug|Win32
+		{5292F5E0-F70A-4E0F-86BE-4D9B270E2804}.Debug|x86.Build.0 = Debug|Win32
+		{5292F5E0-F70A-4E0F-86BE-4D9B270E2804}.Release|x64.ActiveCfg = Release|x64
+		{5292F5E0-F70A-4E0F-86BE-4D9B270E2804}.Release|x64.Build.0 = Release|x64
+		{5292F5E0-F70A-4E0F-86BE-4D9B270E2804}.Release|x86.ActiveCfg = Release|Win32
+		{5292F5E0-F70A-4E0F-86BE-4D9B270E2804}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E990F9D1-7562-4400-A9F3-AF5794FD6F27}
+	EndGlobalSection
+EndGlobal
